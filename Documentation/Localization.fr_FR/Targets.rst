@@ -7,19 +7,19 @@
 .. _linktargets:
 
 ============
-Link targets
+Cibles de liens
 ============
 
-Explanation
+Explication
 ===========
 
-This page is only relevant for documentation contributors:
+Cette page ne concerne que les contributeurs de la documentation :
 
-It lists all the link targets in this manual. The link targets can
-be used for linking from this manual or from other manuals with the
-intersphinx mechanism.
+Il répertorie toutes les cibles de liens dans ce manuel.
+Les cibles de liens peuvent être utilisées pour établir des liens à partir
+de ce manuel ou d'autres manuels à l'aide du mécanisme intersphinx..
 
-Example:
+Exemple:
 
 .. code-block:: rest
 
@@ -27,15 +27,15 @@ Example:
    :ref:`extension-manager`
 
 
-You can use this construct to link to the section "Extension Manager".
+Vous pouvez utiliser cette construction pour établir un lien avec la section "extension-manager".
 
-More information:
+Plus d'informations:
 
-* :ref:`h2document:intersphinx` in "Writing Documentation"
+* :ref:`h2document:intersphinx` in "Rédaction de la documentation"
 
 .. _Targets-for-Cross-Referencing:
 
-Targets for cross referencing
+Cibles pour le référencement croisé
 =============================
 
 

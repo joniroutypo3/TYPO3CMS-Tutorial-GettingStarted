@@ -1,7 +1,7 @@
 
 :orphan:
 
-.. this file ist linked from Index.rst but not included in the menu
+.. Ce fichier est lié à Index.rst mais n'est pas inclus dans le menu.
 
 .. include:: /Includes.rst.txt
 
@@ -9,50 +9,52 @@
 .. _about-this-document:
 
 ===================
-About This Tutorial
+À propos de ce tutoriel
 ===================
 
-This document was created to introduce new users to TYPO3, its core features and
-provide an overview on how to configure and administer the CMS.
+Ce document a été créé pour présenter aux nouveaux utilisateurs TYPO3,
+ses principales fonctions et pour fournir une vue d'ensemble sur la façon de
+configurer et d'administrer le CMS.
 
-Upon completing this tutorial, you should have a better understanding about how
-the CMS is installed, how the backend is administered and how you begin creating
-templates.
+À l'issue de ce tutoriel, vous devriez mieux comprendre comment installer le CMS,
+comment administrer le backend et comment commencer à créer des gabarits.
 
-French Translation
+Traduction en français
 ==================
 
-A French translation has been created by Jonathan Iroulin.
+Une traduction française a été réalisée par Jonathan Iroulin.
 
-We are currently working on optimizing the rendering. Due to this, there
-was an issue with rendering the translation. The translated version still
-exists in a separate branch **fr** and only needs to be reactivated once
-the issues with rendering have been solved and the French branch has been
-reviewed for TYPO3 9.
+Nous travaillons actuellement à l'optimisation du rendu. De ce fait, il y a eu un problème
+avec le rendu de la traduction. La version traduite existe toujours dans une branche
+séparée **fr** et ne doit être réactivée que lorsque les problèmes de rendu
+auront été résolus et que la branche française aura été revue pour TYPO3 9.
 
 
 .. _status:
 
-Status of This Manual
+Statut de ce manuel
 =====================
 
-The current version was updated to reflect TYPO3 CMS |release|.
+La version actuelle a été mise à jour pour refléter TYPO3 CMS |release|.
 
 
 .. _credits:
 
-Credits
+Crédits
 =======
 
-This manual was originally written by Kasper Skårhøj and adapted to
-TYPO3 CMS 4.5 LTS by Philipp Gampe, Martin Holtz, Susanne Moog and François Suter.
-It was revised and updated to version 6.2 LTS by Guido Haase, to version 7 LTS
-by Francois Suter and to version 9.5 LTS by Sybille Peters.
-Tom Warwick made several language improvements on the 9.5 branch for better readability.
+Ce manuel a été initialement écrit par Kasper Skårhøj et adapté à TYPO3 CMS 4.5 LTS
+par Philipp Gampe, Martin Holtz, Susanne Moog et François Suter.
 
-Since TYPO3 documentation can now be edited by the TYPO3 community collaboratively,
-a number of other people have made changes and improved this tutorial. You can see
-the `list of contributors on GitHub
+Il a été révisé et mis à jour à la version 6.2 LTS par Guido Haase,
+à la version 7 LTS par François Suter et à la version 9.5 LTS par Sybille Peters.
+
+Tom Warwick a apporté plusieurs améliorations linguistiques sur la branche 9.5
+pour une meilleure lisibilité.
+
+La traduction actuelle a été réalisée par Jonathan Iroulin.
+
+Depuis que la documentation TYPO3 peut être éditée collaborativement par la communauté TYPO3,
+un certain nombre d'autres personnes ont apporté des modifications et amélioré ce tutoriel.
+Vous pouvez voir la `liste des contributeurs sur GitHub
 <https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/graphs/contributors>`__.
-
-

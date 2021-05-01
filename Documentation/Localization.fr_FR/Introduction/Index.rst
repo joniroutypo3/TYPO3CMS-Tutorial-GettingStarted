@@ -10,7 +10,7 @@ Introduction
 
 .. _get-help:
 
-Get help
+Obtenir de l'aide
 ========
 
 .. _slack:
@@ -18,55 +18,55 @@ Get help
 Slack
 -----
 
-Ask on **Slack** for help:
+Demandez de l'aide sur **Slack** :
 
 .. rst-class:: bignums
 
-1. `Register for a typo3.org account <https://my.typo3.org/registration/sign-up/>`__
-2. `Register for Slack <https://my.typo3.org/about-mytypo3org/slack/>`__
-3. Join the TYPO3 Slack workspace: https://typo3.slack.com
-4. Join the **#typo3-cms** channel and ask your question
+1. `S'inscrire pour un compte typo3.org <https://my.typo3.org/registration/sign-up/>`__
+2. `S'inscrire sur Slack <https://my.typo3.org/about-mytypo3org/slack/>`__
+3. Rejoignez l'espace de travail Slack de TYPO3: https://typo3.slack.com
+4. Rejoignez le canal **#typo3-cms** et posez votre question
 
 .. _usage-version-selector:
 
-Selecting the right version of this tutorial
+Sélection de la bonne version de ce tutoriel
 ============================================
-.. tip:: Make sure the version of TYPO3 you are using matches the same revision of this tutorial
+.. tip:: Assurez-vous que la version de TYPO3 que vous utilisez correspond à la même version que celle de ce tutoriel.
 
-   If you are using a different version of TYPO3, you can
-   `select the appropriate revision of this tutorial <https://docs.typo3.org/Tips/UsingThisSite/Index.html#version-selector>`_
-   that matches your installation by
-   finding the **Release** drop-down, located at the top left of
-   this tutorials' navigation menu.
+   Si vous utilisez une autre version de TYPO3, vous pouvez
+   ` sélectionner la révision appropriée de ce tutoriel <https://docs.typo3.org/Tips/UsingThisSite/Index.html#version-selector>`_
+   qui correspond à votre installation en
+   trouvant le menu déroulant **Release**, situé en haut à gauche du
+   menu de navigation de ce tutoriel.
 
 
-About This Tutorial
+À propos de ce tutoriel
 ===================
 
-This tutorial will introduce you to TYPO3's backend, covering each of its modules in detail.
-It will also show you to how to carry out common tasks that you would expect to perform
-in any content management system.
+Ce tutoriel vous présentera le backend de TYPO3, en couvrant chacun de ses modules en détail.
+Il vous montrera également comment effectuer les tâches courantes que vous vous attendez à voir
+dans tout système de gestion de contenu.
 
-In the :ref:`installation` chapter, you will learn how to set up TYPO3 after completing a new installation.
-We use a TYPO3 installation based on the Introduction Package. Since TYPO3 is highly configurable, the items in
-the GUI may look and behave slightly differently if your installation is not using the Introduction Package.
+Dans le chapitre :ref:`installation` vous apprendrez comment configurer TYPO3 après avoir effectué une nouvelle installation.
+Nous utilisons une installation de TYPO3 basée sur le package d'introduction.
+Comme TYPO3 est hautement configurable, les éléments de l'interface graphique peuvent avoir un aspect
+et un comportement légèrement différents si votre installation n'utilise pas l'Introduction Package.
 
-The chapter :ref:`general-principles` gives you an overview of TYPO3's backend. Here you will learn how to
-log in to the CMS and perform other tasks such as creating pages in the Page Tree and adding content to individual pages.
+Le chapitre :ref:`general-principles` vous donne un aperçu du backend de TYPO3.
+Vous y apprendrez comment vous connecter au CMS et effectuer d'autres tâches telles que
+la création de pages dans l'arborescence des pages et l'ajout de contenu à des pages individuelles.
 
-The chapters :ref:`list-module` and :ref:`file-module`
-cover some basic editing tasks and are aimed at **editors**.
+Les chapitres :ref:`list-module` et :ref:`file-module`
+couvrent certaines tâches d'édition de base et sont destinés aux **éditeurs**.
 
-The next few chapters handle some **administration** and **configuration tasks**. They
-require enhanced backend privileges. Editors will
-usually not have access to these modules.
+Les chapitres suivants traitent de certaines tâches d' **administration** et de **configuration**.
+Ils requièrent des privilèges étendus pour le backend.
+Les éditeurs n'auront généralement pas accès à ces modules.
 
-For editors, we recommended that you proceed
-to the :ref:`next-steps-editors` section.
+Pour les éditeurs, nous vous recommandons de passer
+à la section :ref:`next-steps-editors`.
 
-**Integrators** who wish to start adding HTML templates into their installation of TYPO3
-can find out more in the :ref:`Templating` section.
+**Les intégrateurs** qui souhaitent commencer à ajouter des gabarits HTML dans leur installation
+TYPO3 peuvent en apprendre davantage dans la section :ref:`Templating`.
 
-All target audiences will find recommendations for additional reading in the :ref:`next-steps`
-section.
-
+Tous les publics cibles trouveront des recommandations de lectures supplémentaires dans la section :ref:`next-steps`.

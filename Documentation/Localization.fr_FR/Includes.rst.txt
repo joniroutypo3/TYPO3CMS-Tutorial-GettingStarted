@@ -1,5 +1,5 @@
-﻿.. This is 'Includes.rst.txt'. It is included at the very top of each and
-   every ReST source file in THIS documentation project (= manual).
+﻿.. Il s'agit de "Includes.rst.txt". Il est inclus en haut de chaque fichier
+source ReST dans ce projet de documentation (= manuel).
 
 .. role:: aspect (emphasis)
 .. role:: html(code)

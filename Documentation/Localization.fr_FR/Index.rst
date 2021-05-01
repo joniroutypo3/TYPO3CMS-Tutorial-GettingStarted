@@ -3,76 +3,81 @@
 .. _start:
 
 ========================
-Getting started tutorial
+Tutoriel pour démarrer
 ========================
 
 :Version:
       |release|
 
 :Language:
-      en
+      fr
 
 :Copyright:
-      2004-2019
+      2004-2021
 
-:Authors:
-      TYPO3 community (see :ref:`credits`)
+:Auteurs:
+      Communauté TYPO3 (see :ref:`credits`)
 
 :License:
-      Open Publication License available from `www.opencontent.org/openpub/
+      Licence de publication ouverte disponible sur `www.opencontent.org/openpub/
       <http://www.opencontent.org/openpub/>`_
 
 :Audience:
-      Newcomers, editors, integrators, administrators
+      Nouveaux arrivants, rédacteurs, intégrateurs, administrateurs
 
-:Status:
-      needs review (Last reviewed for TYPO3 9.5.8 on July 22, 2019)
+:Statut:
+      nécessite une révision (Dernière révision pour TYPO3 9.5.8 le 22 juillet 2019)
 
 
 **TYPO3**
 
-The content of this document is related to TYPO3 CMS,
-a GNU/GPL CMS/Framework available from `typo3.org
+Le contenu de ce document est lié au CMS TYPO3,
+un CMS/Framework GNU/GPL disponible sur `typo3.org
 <https://typo3.org/>`_ .
 
 
-**About this tutorial:**
+**À propos de ce tutoriel:**
 
-The official tutorial to discover the main features and concepts of TYPO3 CMS.
-It is based on the Introduction Package. :ref:`Read more ... <about>`
+Le tutoriel officiel pour découvrir les principales fonctionnalités et concepts du CMS TYPO3.
+Il est basé sur le pack d'introduction. :ref:`Lire la suite ... <about>`
 
 
-**Official documentation:**
+**Documentation officielle:**
 
-This document is included as part of the official TYPO3 documentation.
+Ce document fait partie de la documentation officielle de TYPO3.
 
-If you find an error or something is missing, please:
-`Report a Problem <https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/issues/new>`__
+Si vous trouvez une erreur ou si quelque chose manque, merci :
+`Signaler un problème <https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/issues/new>`__
 
-**Tutorial**
+**Tutoriel**
 
-This document is a tutorial. Tutorials provide step-by-step
-instructions specifically created to walk a beginner through a
-particular task from beginning to end. To facilitate effective
-learning, tutorials provide examples to illustrate the subjects they
-cover. In addition, tutorials provide guidance on how to avoid common
-pitfalls and highlight key concepts that should be remembered for
-future reference.
+Ce document est un tutoriel.
 
-**For Contributors**
+Les tutoriels fournissent des instructions étape par étape spécialement
+créées pour guider un débutant du début à la fin d'une tâche particulière.
 
-You are welcome to help in improving this guide. Just click on "Edit me on GitHub"
-on the top right to submit your change request.
+Pour faciliter un apprentissage efficace, les tutoriels fournissent des exemples
+pour illustrer les sujets qu'ils couvrent.
 
-General information:
+En outre, les tutoriels fournissent des conseils sur la manière d'éviter
+les pièges courants et mettent en évidence les concepts clés à retenir
+pour une référence ultérieure.
 
-* :ref:`Contribute (in "Writing Documentation") <h2document:docs-contribute>`
-* :ref:`Contact the Documentation Team <h2document:contact-us>`.
+**Pour les contributeurs**
 
-Links for this manual:
+Vous êtes les bienvenus pour aider à améliorer ce guide.
+Cliquez simplement sur "Edit me on GitHub" en haut à droite pour soumettre
+votre demande de modification.
 
-:ref:`linktargets` | `GitHub repository <https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/>`__
-| `Issues <https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/issues>`__
+Informations générales:
+
+* :ref:`Contribuer (dans "Rédaction de la documentation") <h2document:docs-contribute>`
+* :ref:`Contacter l'équipe de documentation <h2document:contact-us>`.
+
+Liens pour ce manuel:
+
+:ref:`linktargets` | `Dépôt GitHub <https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/>`__
+| `Problèmes <https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/issues>`__
 
 
 .. toctree::
